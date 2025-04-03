@@ -267,9 +267,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nombreUsuario: juan
-  edadUsuario: 0
-  estaturaUsuario: 0
-  esDonante: 0
+  edadUsuario: 16
+  estaturaUsuario: 180
+  esDonante: 1
 --- !u!4 &1701456375
 Transform:
   m_ObjectHideFlags: 0
